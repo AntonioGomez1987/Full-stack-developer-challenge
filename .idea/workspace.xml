@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfaf9aad-77af-4e62-9bf4-c2e053dcecef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/challenge1/CodeChallengeOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/challenge2/CodeChallengeTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/challenge3/CodeChallengeThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/java/challenge1/CodeChallengeOneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/java/challenge2/CodeChallengeTwoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/java/challenge3/CodeChallengeThreeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/java/challenge2/CodeChallengeTwoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/java/challenge2/CodeChallengeTwoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2kL0xQdGLKHUq0Yje7aYFrKKMgZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,21 +34,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CodeChallengeOneTest.executor": "Run",
-    "Application.CodeChallengeThreeTest.executor": "Run",
-    "Application.CodeChallengeTwoTest.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.codeChallengeOneTest.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/CursosUbaldoAcosta/Java/FullStackDeveloperChallenge/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CodeChallengeOneTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CodeChallengeThreeTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CodeChallengeTwoTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.codeChallengeOneTest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/CursosUbaldoAcosta/Java/FullStackDeveloperChallenge/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.CodeChallengeOneTest">
+}</component>
+  <component name="RunManager" selected="Application.CodeChallengeTwoTest">
     <configuration name="CodeChallengeOneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tests.java.challenge1.CodeChallengeOneTest" />
       <module name="FullStackDeveloperChallenge" />
@@ -104,9 +97,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CodeChallengeOneTest" />
-        <item itemvalue="Application.CodeChallengeThreeTest" />
         <item itemvalue="Application.CodeChallengeTwoTest" />
+        <item itemvalue="Application.CodeChallengeThreeTest" />
+        <item itemvalue="Application.CodeChallengeOneTest" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
